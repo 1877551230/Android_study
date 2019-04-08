@@ -16,7 +16,7 @@ public class Main3Activity extends AppCompatActivity implements ViewSwitcher.Vie
     private ImageSwitcher is;//声明ImageSwitcher布局
     private LinearLayout point_layout;//声明导航圆点的布局
     //图片id数组（需要与GridActivity中的图片资源数组一一对应）
-    int[] images={R.drawable.h1,R.drawable.h2,R.drawable.h3,R.drawable.h4,R.drawable.h5};
+    int[] images={R.drawable.h1,R.drawable.h2,R.drawable.h3,R.drawable.h4,R.drawable.h5,R.drawable.h6,R.drawable.h7,R.drawable.h8,R.drawable.h9};
     //实例化存储导航圆点的集合
     ArrayList<ImageView> points = new ArrayList<>();
     int index;//声明index，记录图片id数组下标
