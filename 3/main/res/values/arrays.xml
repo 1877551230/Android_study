@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major_array">
+        <item>Java编程</item>
+        <item>Andorid编程</item>
+        <item>ASP.NET编程</item>
+        <item>J2EE编程</item>
+    </string-array>
+
+</resources>
