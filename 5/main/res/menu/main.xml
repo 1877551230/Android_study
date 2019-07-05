@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/menu1"  android:title="第一布局"></item>
-    <item android:id="@+id/menu2"  android:title="第二布局"></item>
-
-</menu>
